@@ -1,4 +1,4 @@
-# Under Construction [Please come back later]
+# Under Construction
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mdhasan2/autocyber/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
