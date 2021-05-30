@@ -38,7 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 - [Projects](https://github.com/mdhasan2/autocyber/settings/pages)
-- [HTB](https://github.com/mdhasan2/autocyber/settings/htb)
+- [Pentesting](https://github.com/mdhasan2/autocyber/pentesting)
 - [Teaching](https://github.com/mdhasan2/autocyber/settings/pages)
 - [Paper](https://github.com/mdhasan2/autocyber/settings/pages)
 - [CV](https://github.com/mdhasan2/autocyber/settings/pages)
