@@ -1,4 +1,4 @@
-- [RCE-CTF](pages/projects/projects.md)
+- [CTF](pages/projects/projects.md)
 - [ML-BAP](pages/projects/projects.md)
 - [ML-SDN](pages/projects/projects.md)
 - [AC-POC](pages/projects/projects.md)
