@@ -6,3 +6,4 @@ CIST 1602 SECURITY POLICIES AND PROCEDURES
 - Augusta Technical College
 - Fall 2021
 - M 06:00-08:50
+- Georgia Cyber Center
