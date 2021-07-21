@@ -1,5 +1,5 @@
 
-## Teaching Experience:
+## Teaching Experience
 
 CIST 1602 SECURITY POLICIES AND PROCEDURES
 
